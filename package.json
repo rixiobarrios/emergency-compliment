@@ -1,0 +1,19 @@
+{
+  "name": "emergency_compliment",
+  "version": "1.0.0",
+  "description": "## Mission…",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/ga-wdi-exercises/emergency_compliment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
