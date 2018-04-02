@@ -9,12 +9,14 @@ Create a new directory called `emergency_compliment` that holds your Express app
 
 ## Level 1: generic compliment
 
-When you visit the root (`"/"`) of your app, it should display a generic greeting and a randomly chosen compliment. The background color of the app should be randomized as well.
+>YOURPORT should be a number like 3000 or 4000
 
-Here are some sample compliments and colors (feel free to substitute in your own):
+When you visit the root (`"localhost:YOURPORT/"`) of your app, it should display a generic greeting and a randomly chosen compliment. The background color of the app should be randomized as well.
+
+Here are some sample compliments and colors (feel free to substitute in your own)...
 
 ```js
-compliments = [
+const compliments = [
   "Your instructors love you",
   "High five = ^5",
   "Is it Ruby Tuesday yet?",
@@ -22,7 +24,7 @@ compliments = [
   "The Force is strong with you"
 ]
 
-colors = ["#FFBF00", "#0080FF","#01DF3A","#FF0080"]
+const colors = ["#FFBF00", "#0080FF","#01DF3A","#FF0080"]
 ```
 
 ## Level 2: personalized compliment
