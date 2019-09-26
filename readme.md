@@ -31,6 +31,6 @@ const colors = ["#FFBF00", "#0080FF","#01DF3A","#FF0080"]
 
 When you visit `"/:name"` (ie: `"localhost:YOURPORT/randy"`), the greeting should personalize itself to the provided name. There should still be a random compliment and background color.
 
-## Level 3: user submitted compliments
+## Bonus: user submitted compliments
 
 Allow a user to add to the list of compliments using a POST request. You can submit POST requests to the app using a form.
