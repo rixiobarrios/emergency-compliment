@@ -2,11 +2,25 @@
 
 ## Mission…
 
-Create your own version of [Emergency Compliment](http://emergencycompliment.com/), except making the compliments SEI-themed. When a user visits the site, they should be greeted with a SEI-themed compliment to cheer them up.
+For tonight's homework, you will be creating your own version of [Emergency Compliment](http://emergencycompliment.com/), except making the compliments SEI-themed.
 
-Create a new directory called `emergency_compliment` that holds your Express app. 
+## Getting Started 
 
-## Level 1: generic compliment
+1. Fork and clone this repository.
+1. Change into the new directory.
+1. Create a MVC express app in this repository: 
+  - `npm init -y`
+  - `touch index.js` 
+  - Think: What packages do you need to install?
+  - Think: What other files do you need to create and how should you organize them?
+1. Complete the assignment mission.
+  - See below for more details of how the app should work
+
+# Activity 
+
+Make an express app that randomly displays a compliment to the user. Look at [Emergency Compliment](http://emergencycompliment.com/) for a working example (but remember, try to make your compliments SEI themed!)
+
+### Level 1: Generic Compliment
 
 >`YOURPORT` should be a number like 3000 or 4000
 
@@ -26,10 +40,27 @@ const compliments = [
 const colors = ["#FFBF00", "#0080FF","#01DF3A","#FF0080"]
 ```
 
-## Level 2: personalized compliment
+### Level 2: Personalized Compliment
 
 When you visit `"/:name"` (ie: `"localhost:YOURPORT/randy"`), the greeting should personalize itself to the provided name. There should still be a random compliment and background color.
 
-## Bonus: user submitted compliments
+---
+
+# Submission 
+
+**This homework assignment is due by February 10th, 10AM ET** 
+
+From this point forward, homework during the week will be due by the beginning of the following week. This does _not_ mean to save the entire week's homework for Sunday evening, however. Learn to manage your time properly! 
+
+To submit your homework, don't forget to...
+
+  - Create a `.gitignore` file and add `node_modules` to it 
+  - Create a pull request on this repository 
+
+---
+
+## Hungry for More?
+
+### User Submitted Compliments
 
 Allow a user to add to the list of compliments using a POST request. You can submit POST requests to the app using a form.
