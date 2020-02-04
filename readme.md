@@ -63,7 +63,9 @@ From this point forward, homework during the week will be due by the beginning o
 
 ---
 
-## Hungry for More?
+# Hungry for More?
+
+Finshed everything required above and want to do a bit more to stretch your skills? Try any or all of these bonuses:
 
 1. Add the "meh" button functionality, so that when the user clicks on the button, they can get a new randomly generated compliment without having to refresh the entire page
 1. Allow a user to add to the list of compliments using a POST request. You can submit POST requests to the app using a form.
