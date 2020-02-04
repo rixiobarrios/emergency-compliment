@@ -1,11 +1,10 @@
-# WDI Emergency Compliment
+# SEI Emergency Compliment
 
 ## Mission…
 
-Create your own version of [Emergency Compliment](http://emergencycompliment.com/), except making the compliments WDI-themed. When a user visits the site, they should be greeted with a WDI-themed compliment to cheer them up.
+Create your own version of [Emergency Compliment](http://emergencycompliment.com/), except making the compliments SEI-themed. When a user visits the site, they should be greeted with a SEI-themed compliment to cheer them up.
 
 Create a new directory called `emergency_compliment` that holds your Express app. 
-
 
 ## Level 1: generic compliment
 
