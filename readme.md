@@ -2,7 +2,9 @@
 
 ## Mission…
 
-For tonight's homework, you will be creating your own version of [Emergency Compliment](http://emergencycompliment.com/), except making the compliments SEI-themed.
+For tonight's homework, you will be creating a very simplified version of [Emergency Compliment](http://emergencycompliment.com/), except making the compliments SEI-themed.
+
+> NOTE: Ignore the broken "thanks" button on the site, you will not need to add that functionality to your own app. You also will not be required to add the "meh" button functionality on your site.
 
 ## Getting Started 
 
@@ -61,6 +63,5 @@ To submit your homework, don't forget to...
 
 ## Hungry for More?
 
-### User Submitted Compliments
-
-Allow a user to add to the list of compliments using a POST request. You can submit POST requests to the app using a form.
+1. Add the "meh" button functionality, so that when the user clicks on the button, they can get a new randomly generated compliment without having to refresh the entire page
+1. Allow a user to add to the list of compliments using a POST request. You can submit POST requests to the app using a form.
