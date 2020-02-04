@@ -14,7 +14,6 @@ For tonight's homework, you will be creating a very simplified version of [Emerg
     - `npm init -y`
     - `touch index.js` 
     - Think: What packages do you need to install and require?
-    - Think: What other files do you need to create and how should you organize them?
 4. Complete the assignment mission.
     - See below for more details of how the app should work
 
