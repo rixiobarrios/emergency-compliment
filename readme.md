@@ -4,19 +4,21 @@
 
 For tonight's homework, you will be creating a very simplified version of [Emergency Compliment](http://emergencycompliment.com/), except making the compliments SEI-themed.
 
-> NOTE: Ignore the broken "thanks" button on the site, you will not need to add that functionality to your own app. You also will not be required to add the "meh" button functionality on your site.
+**NOTE:** Ignore the broken "thanks" button on the site, you will not need to add that functionality to your own app. You also will not be required to add the "meh" button functionality on your site.
 
 ## Getting Started 
 
 1. Fork and clone this repository.
 1. Change into the new directory.
-1. Create a MVC express app in this repository: 
+1. Create a basic express app in this repository: 
     - `npm init -y`
     - `touch index.js` 
-    - Think: What packages do you need to install?
+    - Think: What packages do you need to install and require?
     - Think: What other files do you need to create and how should you organize them?
 4. Complete the assignment mission.
     - See below for more details of how the app should work
+
+**NOTE**: You will **not** need to create a database for this app 
 
 # Activity 
 
