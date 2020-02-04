@@ -67,3 +67,4 @@ From this point forward, homework during the week will be due by the beginning o
 
 1. Add the "meh" button functionality, so that when the user clicks on the button, they can get a new randomly generated compliment without having to refresh the entire page
 1. Allow a user to add to the list of compliments using a POST request. You can submit POST requests to the app using a form.
+1. Make this app a full-stack app by using MVC file structure and creating a mongo database to hold your compliments instead of just hardcoding the data
