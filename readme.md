@@ -11,12 +11,12 @@ For tonight's homework, you will be creating a very simplified version of [Emerg
 1. Fork and clone this repository.
 1. Change into the new directory.
 1. Create a MVC express app in this repository: 
-  - `npm init -y`
-  - `touch index.js` 
-  - Think: What packages do you need to install?
-  - Think: What other files do you need to create and how should you organize them?
-1. Complete the assignment mission.
-  - See below for more details of how the app should work
+    - `npm init -y`
+    - `touch index.js` 
+    - Think: What packages do you need to install?
+    - Think: What other files do you need to create and how should you organize them?
+4. Complete the assignment mission.
+    - See below for more details of how the app should work
 
 # Activity 
 
